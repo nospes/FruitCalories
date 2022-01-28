@@ -13,8 +13,6 @@ const GlobalStyle = createGlobalStyle`
     background-color: #D3E4CD;
   }
   body {
-    text-rendering: optimizeLegibility !important;
-    -webkit-font-smoothing: antialiased !important;
     color: #0F0E0E;
     font-family: 'Noto Sans', sans-serif;
   }
@@ -26,7 +24,6 @@ const GlobalStyle = createGlobalStyle`
   }
   a {
     text-decoration: none;
-    color: #0F0E0E;
   }
 `
 

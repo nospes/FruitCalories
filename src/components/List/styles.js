@@ -6,7 +6,6 @@ export const Container = styled.div`
   border-radius: 7px;
   margin: 0 0 10px 0;
   cursor: pointer;
-  transition: all 0.2s;
   display: flex;
   align-items: center;
   justify-content: space-between;

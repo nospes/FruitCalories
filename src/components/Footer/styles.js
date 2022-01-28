@@ -9,6 +9,6 @@ export const Container = styled.div`
   align-items: center;
   a {
     color: #9dd;
-    font-weight: 700;
+    font-weight: 1000;
   }
 `

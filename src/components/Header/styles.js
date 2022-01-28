@@ -17,13 +17,7 @@ export const Container = styled.header`
       display: none;
     }
   }
-    a {
-      color: #fff;
-      font-size: 22px;
-    }
-    .active {
-      color: #f49;
-    }
+
     @media only screen and (min-width: 768px) {
       position: initial;
       height: auto;
